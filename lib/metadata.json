@@ -1,6 +1,6 @@
 {
   "vaultName": "Elder Wilds Wiki",
-  "lastExport": 1725922952539,
+  "lastExport": 1725924454773,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-ribbon",
   "useCustomHeadContent": false,
@@ -26,8 +26,13 @@
     "Character Database.md",
     "Lore Building Database.md",
     "Lore Buildings.canvas",
+    "Untitled.canvas",
     "pictures/map-background-tall.png",
     "pictures/skin-nydid.png",
+    "pictures/skin-carl.png",
+    "pictures/skin-davelore.png",
+    "pictures/skin-sockworthy.png",
+    "pictures/town-map_scaled_5x_pngcrushed.png",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -51,8 +56,7 @@
     "lib/styles/other-plugins.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/main-styles.css",
-    "lib/styles/snippets.css",
-    "pictures/town-map_scaled_5x_pngcrushed.png"
+    "lib/styles/snippets.css"
   ],
   "mainDependencies": [
     "lib/fonts/94f2f163d4b698242fef.otf",
@@ -82,127 +86,130 @@
   ],
   "fileInfo": {
     "Characters/Carl.md": {
-      "modifiedTime": 1725922402973,
+      "modifiedTime": 1725924454773,
       "sourceSize": 529,
       "exportedPath": "characters/carl.html",
       "dependencies": []
     },
     "Characters/Davelore.md": {
-      "modifiedTime": 1725922402973,
+      "modifiedTime": 1725924454773,
       "sourceSize": 624,
       "exportedPath": "characters/davelore.html",
       "dependencies": []
     },
     "Characters/Drake.md": {
-      "modifiedTime": 1725922402973,
+      "modifiedTime": 1725924454773,
       "sourceSize": 538,
       "exportedPath": "characters/drake.html",
       "dependencies": []
     },
     "Characters/Melphizard.md": {
-      "modifiedTime": 1725922402973,
+      "modifiedTime": 1725924454773,
       "sourceSize": 529,
       "exportedPath": "characters/melphizard.html",
       "dependencies": []
     },
     "Characters/Nydid.md": {
-      "modifiedTime": 1725922952539,
+      "modifiedTime": 1725924454773,
       "sourceSize": 535,
       "exportedPath": "characters/nydid.html",
       "dependencies": []
     },
     "Characters/Sockworthy.md": {
-      "modifiedTime": 1725922402973,
+      "modifiedTime": 1725924454773,
       "sourceSize": 510,
       "exportedPath": "characters/sockworthy.html",
       "dependencies": []
     },
     "Characters/Xena.md": {
-      "modifiedTime": 1725922402973,
+      "modifiedTime": 1725924454773,
       "sourceSize": 398,
       "exportedPath": "characters/xena.html",
       "dependencies": []
     },
     "Lore Buildings/Barracks.md": {
-      "modifiedTime": 1725922402973,
+      "modifiedTime": 1725924454773,
       "sourceSize": 36,
       "exportedPath": "lore-buildings/barracks.html",
       "dependencies": []
     },
     "Lore Buildings/Brewery.md": {
-      "modifiedTime": 1725922402973,
+      "modifiedTime": 1725924454773,
       "sourceSize": 159,
       "exportedPath": "lore-buildings/brewery.html",
       "dependencies": []
     },
     "Lore Buildings/Iron Mine.md": {
-      "modifiedTime": 1725922402973,
+      "modifiedTime": 1725924454773,
       "sourceSize": 20,
       "exportedPath": "lore-buildings/iron-mine.html",
       "dependencies": []
     },
     "Lore Buildings/Kitchen.md": {
-      "modifiedTime": 1725922402973,
+      "modifiedTime": 1725924454773,
       "sourceSize": 20,
       "exportedPath": "lore-buildings/kitchen.html",
       "dependencies": []
     },
     "Lore Buildings/Lighthouse.md": {
-      "modifiedTime": 1725922402973,
+      "modifiedTime": 1725924454773,
       "sourceSize": 0,
       "exportedPath": "lore-buildings/lighthouse.html",
       "dependencies": []
     },
     "Lore Buildings/Rot Hut.md": {
-      "modifiedTime": 1725922402973,
+      "modifiedTime": 1725924454773,
       "sourceSize": 436,
       "exportedPath": "lore-buildings/rot-hut.html",
       "dependencies": []
     },
     "Lore Buildings/Stewshop.md": {
-      "modifiedTime": 1725922402973,
+      "modifiedTime": 1725924454773,
       "sourceSize": 33,
       "exportedPath": "lore-buildings/stewshop.html",
       "dependencies": []
     },
     "Lore Buildings/Windmill.md": {
-      "modifiedTime": 1725922402973,
+      "modifiedTime": 1725924454773,
       "sourceSize": 223,
       "exportedPath": "lore-buildings/windmill.html",
       "dependencies": []
     },
     "Lore Buildings/Wizard Tower.md": {
-      "modifiedTime": 1725922402973,
+      "modifiedTime": 1725924454773,
       "sourceSize": 304,
       "exportedPath": "lore-buildings/wizard-tower.html",
       "dependencies": []
     },
     "Character Canvas.canvas": {
-      "modifiedTime": 1725922952539,
-      "sourceSize": 2152,
+      "modifiedTime": 1725924454773,
+      "sourceSize": 2904,
       "exportedPath": "character-canvas.html",
       "dependencies": [
         "pictures/map-background-tall.png",
         "pictures/skin-nydid.png",
         "pictures/map-background-tall.png",
+        "pictures/skin-carl.png",
         "pictures/map-background-tall.png",
-        "pictures/map-background-tall.png"
+        "pictures/skin-davelore.png",
+        "pictures/map-background-tall.png",
+        "pictures/skin-sockworthy.png"
       ]
     },
     "Character Database.md": {
-      "modifiedTime": 1725922952539,
-      "sourceSize": 5945,
+      "modifiedTime": 1725924454773,
+      "sourceSize": 5988,
       "exportedPath": "character-database.html",
       "dependencies": []
     },
     "Lore Building Database.md": {
-      "modifiedTime": 1725922952539,
+      "modifiedTime": 1725924454773,
       "sourceSize": 2582,
       "exportedPath": "lore-building-database.html",
       "dependencies": []
     },
     "Lore Buildings.canvas": {
-      "modifiedTime": 1725922402973,
+      "modifiedTime": 1725924454773,
       "sourceSize": 2481,
       "exportedPath": "lore-buildings.html",
       "dependencies": [
@@ -210,165 +217,189 @@
       ]
     },
     "pictures/map-background-tall.png": {
-      "modifiedTime": 1725922952539,
+      "modifiedTime": 1725924454773,
       "sourceSize": 65887,
       "exportedPath": "pictures/map-background-tall.png",
       "dependencies": []
     },
     "pictures/skin-nydid.png": {
-      "modifiedTime": 1725922952539,
+      "modifiedTime": 1725924454773,
       "sourceSize": 50349,
       "exportedPath": "pictures/skin-nydid.png",
       "dependencies": []
     },
     "pictures/town-map_scaled_5x_pngcrushed.png": {
-      "modifiedTime": 1725922402973,
+      "modifiedTime": 1725924454773,
       "sourceSize": 201018,
       "exportedPath": "pictures/town-map_scaled_5x_pngcrushed.png",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1725922952539,
+      "modifiedTime": 1725924454773,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1725922952539,
+      "modifiedTime": 1725924454773,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1725922952539,
+      "modifiedTime": 1725924454773,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1725922952539,
+      "modifiedTime": 1725924454773,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1725922952539,
+      "modifiedTime": 1725924454773,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1725922952539,
+      "modifiedTime": 1725924454773,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1725922952539,
+      "modifiedTime": 1725924454773,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1725922952539,
+      "modifiedTime": 1725924454773,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1725922952539,
+      "modifiedTime": 1725924454773,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1725922952539,
+      "modifiedTime": 1725924454773,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1725922952539,
+      "modifiedTime": 1725924454773,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1725922952539,
+      "modifiedTime": 1725924454773,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1725922952539,
+      "modifiedTime": 1725924454773,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1725922952539,
+      "modifiedTime": 1725924454773,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1725922952539,
+      "modifiedTime": 1725924454773,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1725922952539,
-      "sourceSize": 17196,
+      "modifiedTime": 1725924454773,
+      "sourceSize": 18020,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1725922952539,
+      "modifiedTime": 1725924454773,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1725922952539,
+      "modifiedTime": 1725924454773,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1725922952539,
+      "modifiedTime": 1725924454773,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1725922952539,
+      "modifiedTime": 1725924454773,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1725922952539,
+      "modifiedTime": 1725924454773,
       "sourceSize": 59310,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1725922952539,
+      "modifiedTime": 1725924454773,
       "sourceSize": 415,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1725922952539,
+      "modifiedTime": 1725924454773,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1725922952539,
+      "modifiedTime": 1725924454773,
       "sourceSize": 831,
       "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    },
+    "Untitled.canvas": {
+      "modifiedTime": 1725924454773,
+      "sourceSize": 6268,
+      "exportedPath": "untitled.html",
+      "dependencies": []
+    },
+    "pictures/skin-carl.png": {
+      "modifiedTime": 1725924454773,
+      "sourceSize": 68899,
+      "exportedPath": "pictures/skin-carl.png",
+      "dependencies": []
+    },
+    "pictures/skin-davelore.png": {
+      "modifiedTime": 1725924454773,
+      "sourceSize": 35969,
+      "exportedPath": "pictures/skin-davelore.png",
+      "dependencies": []
+    },
+    "pictures/skin-sockworthy.png": {
+      "modifiedTime": 1725924454773,
+      "sourceSize": 61604,
+      "exportedPath": "pictures/skin-sockworthy.png",
       "dependencies": []
     }
   }
