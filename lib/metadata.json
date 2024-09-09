@@ -1,16 +1,11 @@
 {
-  "vaultName": "Obsidian_Vault",
-  "lastExport": 1725836526623,
+  "vaultName": "awdawdawd",
+  "lastExport": 1725921833436,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon minimal-theme full-width-media canvas-nocorner",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "Canvas/Lore Buildings.canvas",
-    "Canvas/map_background_checkerboard.png",
-    "Canvas/map_background_checkerboard_2x.png",
-    "Canvas/map_background_checkerboard_2x_scaled_3x_pngcrushed.png",
-    "Canvas/SCE Info.md",
     "Characters/Carl.md",
     "Characters/Davelore.md",
     "Characters/Drake.md",
@@ -27,19 +22,10 @@
     "Lore Buildings/Stewshop.md",
     "Lore Buildings/Windmill.md",
     "Lore Buildings/Wizard Tower.md",
-    "Templates/Characters.canvas",
-    "Templates/TEMPLATE - Character Dataview.md",
-    "Templates/TEMPLATE - Character Raw.md",
-    "Templates/TEMPLATE - Lore Building Dataview.md",
-    "body.png",
-    "canvas-export.html",
     "Character Database.md",
-    "Lore Building Database.md",
-    "Map.md",
-    "map_background_checkerboard.pdn",
-    "Testing.md",
-    "lib/media/map_background_checkerboard_2x_scaled_3x_pngcrushed.png",
-    "lib/media/body.png",
+    "Lore Buildings.canvas",
+    "Welcome.md",
+    "pictures/town-map_scaled_5x_pngcrushed.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -106,399 +92,312 @@
     "lib/styles/snippets.css"
   ],
   "fileInfo": {
-    "Characters/Nydid.md": {
-      "modifiedTime": 1725836526623,
-      "sourceSize": 721,
-      "exportedPath": "characters/nydid.html",
-      "dependencies": []
-    },
     "Lore Buildings/Barracks.md": {
-      "modifiedTime": 1725829109225,
-      "sourceSize": 59,
+      "modifiedTime": 1725921833436,
+      "sourceSize": 36,
       "exportedPath": "lore-buildings/barracks.html",
       "dependencies": []
     },
     "Lore Buildings/Iron Mine.md": {
-      "modifiedTime": 1725829109225,
-      "sourceSize": 128,
+      "modifiedTime": 1725921833436,
+      "sourceSize": 20,
       "exportedPath": "lore-buildings/iron-mine.html",
       "dependencies": []
     },
     "Lore Buildings/Kitchen.md": {
-      "modifiedTime": 1725829109225,
-      "sourceSize": 62,
+      "modifiedTime": 1725921833436,
+      "sourceSize": 20,
       "exportedPath": "lore-buildings/kitchen.html",
       "dependencies": []
     },
     "Lore Buildings/Lighthouse.md": {
-      "modifiedTime": 1725829109225,
-      "sourceSize": 57,
+      "modifiedTime": 1725921833436,
+      "sourceSize": 0,
       "exportedPath": "lore-buildings/lighthouse.html",
       "dependencies": []
     },
     "Lore Buildings/Rot Hut.md": {
-      "modifiedTime": 1725829109225,
-      "sourceSize": 1155,
+      "modifiedTime": 1725921833436,
+      "sourceSize": 436,
       "exportedPath": "lore-buildings/rot-hut.html",
       "dependencies": []
     },
     "Lore Buildings/Stewshop.md": {
-      "modifiedTime": 1725829109225,
-      "sourceSize": 93,
+      "modifiedTime": 1725921833436,
+      "sourceSize": 33,
       "exportedPath": "lore-buildings/stewshop.html",
       "dependencies": []
     },
     "Lore Buildings/Windmill.md": {
-      "modifiedTime": 1725829109225,
-      "sourceSize": 492,
+      "modifiedTime": 1725921833436,
+      "sourceSize": 223,
       "exportedPath": "lore-buildings/windmill.html",
       "dependencies": []
     },
     "Lore Buildings/Wizard Tower.md": {
-      "modifiedTime": 1725836526623,
-      "sourceSize": 746,
+      "modifiedTime": 1725921833436,
+      "sourceSize": 304,
       "exportedPath": "lore-buildings/wizard-tower.html",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1725836526623,
+      "modifiedTime": 1725921833436,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1725836526623,
+      "modifiedTime": 1725921833436,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1725836526623,
+      "modifiedTime": 1725921833436,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1725836526623,
+      "modifiedTime": 1725921833436,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1725836526623,
+      "modifiedTime": 1725921833436,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1725836526623,
+      "modifiedTime": 1725921833436,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1725836526623,
+      "modifiedTime": 1725921833436,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1725836526623,
+      "modifiedTime": 1725921833436,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1725836526623,
+      "modifiedTime": 1725921833436,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1725836526623,
+      "modifiedTime": 1725921833436,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1725836526623,
+      "modifiedTime": 1725921833436,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1725836526623,
+      "modifiedTime": 1725921833436,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1725836526623,
+      "modifiedTime": 1725921833436,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1725836526623,
+      "modifiedTime": 1725921833436,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1725836526623,
+      "modifiedTime": 1725921833436,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1725836526623,
+      "modifiedTime": 1725921833436,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1725836526623,
-      "sourceSize": 29755,
+      "modifiedTime": 1725921833436,
+      "sourceSize": 16319,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1725836526623,
+      "modifiedTime": 1725921833436,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1725836526623,
+      "modifiedTime": 1725921833436,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1725836526623,
+      "modifiedTime": 1725921833436,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1725836526623,
+      "modifiedTime": 1725921833436,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1725836526623,
+      "modifiedTime": 1725921833436,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1725836526623,
+      "modifiedTime": 1725921833436,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1725836526623,
+      "modifiedTime": 1725921833436,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1725836526623,
+      "modifiedTime": 1725921833436,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1725836526623,
-      "sourceSize": 1497,
+      "modifiedTime": 1725921833436,
+      "sourceSize": 1079,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1725836526623,
+      "modifiedTime": 1725921833436,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1725836526623,
-      "sourceSize": 35899,
+      "modifiedTime": 1725921833436,
+      "sourceSize": 59310,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1725836526623,
-      "sourceSize": 443,
+      "modifiedTime": 1725921833436,
+      "sourceSize": 415,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1725836526623,
+      "modifiedTime": 1725921833436,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1725836526623,
-      "sourceSize": 43586,
+      "modifiedTime": 1725921833436,
+      "sourceSize": 831,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
     },
-    "Canvas/Lore Buildings.canvas": {
-      "modifiedTime": 1725836526623,
-      "sourceSize": 2254,
-      "exportedPath": "canvas/lore-buildings.html",
-      "dependencies": []
-    },
-    "Canvas/map_background_checkerboard.png": {
-      "modifiedTime": 1725829109225,
-      "sourceSize": 383,
-      "exportedPath": "canvas/map_background_checkerboard.png",
-      "dependencies": []
-    },
-    "Canvas/map_background_checkerboard_2x.png": {
-      "modifiedTime": 1725829109225,
-      "sourceSize": 1264,
-      "exportedPath": "canvas/map_background_checkerboard_2x.png",
-      "dependencies": []
-    },
-    "Canvas/map_background_checkerboard_2x_scaled_3x_pngcrushed.png": {
-      "modifiedTime": 1725829109225,
-      "sourceSize": 65887,
-      "exportedPath": "canvas/map_background_checkerboard_2x_scaled_3x_pngcrushed.png",
-      "dependencies": []
-    },
-    "Canvas/SCE Info.md": {
-      "modifiedTime": 1725829109225,
-      "sourceSize": 135,
-      "exportedPath": "canvas/sce-info.html",
+    "Lore Buildings/Brewery.md": {
+      "modifiedTime": 1725921833436,
+      "sourceSize": 159,
+      "exportedPath": "lore-buildings/brewery.html",
       "dependencies": []
     },
     "Characters/Carl.md": {
-      "modifiedTime": 1725836526623,
-      "sourceSize": 760,
+      "modifiedTime": 1725921833436,
+      "sourceSize": 529,
       "exportedPath": "characters/carl.html",
       "dependencies": []
     },
     "Characters/Davelore.md": {
-      "modifiedTime": 1725829109225,
-      "sourceSize": 832,
+      "modifiedTime": 1725921833436,
+      "sourceSize": 624,
       "exportedPath": "characters/davelore.html",
       "dependencies": []
     },
     "Characters/Drake.md": {
-      "modifiedTime": 1725829109225,
-      "sourceSize": 744,
+      "modifiedTime": 1725921833436,
+      "sourceSize": 538,
       "exportedPath": "characters/drake.html",
       "dependencies": []
     },
     "Characters/Melphizard.md": {
-      "modifiedTime": 1725829109225,
-      "sourceSize": 739,
+      "modifiedTime": 1725921833436,
+      "sourceSize": 529,
       "exportedPath": "characters/melphizard.html",
       "dependencies": []
     },
+    "Characters/Nydid.md": {
+      "modifiedTime": 1725921833436,
+      "sourceSize": 533,
+      "exportedPath": "characters/nydid.html",
+      "dependencies": []
+    },
     "Characters/Sockworthy.md": {
-      "modifiedTime": 1725829109225,
-      "sourceSize": 776,
+      "modifiedTime": 1725921833436,
+      "sourceSize": 510,
       "exportedPath": "characters/sockworthy.html",
       "dependencies": []
     },
     "Characters/Xena.md": {
-      "modifiedTime": 1725829109225,
-      "sourceSize": 492,
+      "modifiedTime": 1725921833436,
+      "sourceSize": 398,
       "exportedPath": "characters/xena.html",
       "dependencies": []
     },
-    "Lore Buildings/Brewery.md": {
-      "modifiedTime": 1725829109225,
-      "sourceSize": 525,
-      "exportedPath": "lore-buildings/brewery.html",
-      "dependencies": []
-    },
-    "Templates/Characters.canvas": {
-      "modifiedTime": 1725836526623,
-      "sourceSize": 1625,
-      "exportedPath": "templates/characters.html",
-      "dependencies": [
-        "lib/media/map_background_checkerboard_2x_scaled_3x_pngcrushed.png",
-        "lib/media/body.png",
-        "lib/media/map_background_checkerboard_2x_scaled_3x_pngcrushed.png",
-        "lib/media/body.png"
-      ]
-    },
-    "Templates/TEMPLATE - Character Dataview.md": {
-      "modifiedTime": 1725829109225,
-      "sourceSize": 581,
-      "exportedPath": "templates/template-character-dataview.html",
-      "dependencies": []
-    },
-    "Templates/TEMPLATE - Character Raw.md": {
-      "modifiedTime": 1725829109225,
-      "sourceSize": 467,
-      "exportedPath": "templates/template-character-raw.html",
-      "dependencies": []
-    },
-    "Templates/TEMPLATE - Lore Building Dataview.md": {
-      "modifiedTime": 1725829109225,
-      "sourceSize": 56,
-      "exportedPath": "templates/template-lore-building-dataview.html",
-      "dependencies": []
-    },
     "Character Database.md": {
-      "modifiedTime": 1725836526623,
-      "sourceSize": 5954,
+      "modifiedTime": 1725921833436,
+      "sourceSize": 5945,
       "exportedPath": "character-database.html",
       "dependencies": []
     },
-    "Lore Building Database.md": {
-      "modifiedTime": 1725836526623,
-      "sourceSize": 2599,
-      "exportedPath": "lore-building-database.html",
+    "Lore Buildings.canvas": {
+      "modifiedTime": 1725921833436,
+      "sourceSize": 2481,
+      "exportedPath": "lore-buildings.html",
+      "dependencies": [
+        "pictures/town-map_scaled_5x_pngcrushed.png"
+      ]
+    },
+    "Welcome.md": {
+      "modifiedTime": 1725921833436,
+      "sourceSize": 203,
+      "exportedPath": "welcome.html",
       "dependencies": []
     },
-    "map_background_checkerboard.pdn": {
-      "modifiedTime": 1725829109225,
-      "sourceSize": 8246,
-      "exportedPath": "map_background_checkerboard.pdn",
-      "dependencies": []
-    },
-    "Testing.md": {
-      "modifiedTime": 1725836526623,
-      "sourceSize": 739,
-      "exportedPath": "testing.html",
-      "dependencies": []
-    },
-    "body.png": {
-      "modifiedTime": 1725836526623,
-      "sourceSize": 50349,
-      "exportedPath": "body.png",
-      "dependencies": []
-    },
-    "canvas-export.html": {
-      "modifiedTime": 1725836526623,
-      "sourceSize": 583339,
-      "exportedPath": "canvas-export.html",
-      "dependencies": []
-    },
-    "Map.md": {
-      "modifiedTime": 1725836526623,
-      "sourceSize": 137,
-      "exportedPath": "map.html",
-      "dependencies": []
-    },
-    "lib/media/map_background_checkerboard_2x_scaled_3x_pngcrushed.png": {
-      "modifiedTime": 1725836526623,
-      "sourceSize": 65887,
-      "exportedPath": "lib/media/map_background_checkerboard_2x_scaled_3x_pngcrushed.png",
-      "dependencies": []
-    },
-    "lib/media/body.png": {
-      "modifiedTime": 1725836526623,
-      "sourceSize": 50349,
-      "exportedPath": "lib/media/body.png",
+    "pictures/town-map_scaled_5x_pngcrushed.png": {
+      "modifiedTime": 1725921833436,
+      "sourceSize": 201018,
+      "exportedPath": "pictures/town-map_scaled_5x_pngcrushed.png",
       "dependencies": []
     }
   }
