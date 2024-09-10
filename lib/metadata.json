@@ -1,6 +1,6 @@
 {
   "vaultName": "Elder Wilds Wiki",
-  "lastExport": 1725925511196,
+  "lastExport": 1725926497472,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-ribbon",
   "useCustomHeadContent": false,
@@ -27,6 +27,7 @@
     "index.html",
     "Lore Building Database.md",
     "Lore Buildings.canvas",
+    "Server Map.md",
     "Untitled.canvas",
     "Welcome.md",
     "pictures/map-background-tall.png",
@@ -102,103 +103,103 @@
   ],
   "fileInfo": {
     "Characters/Carl.md": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 529,
       "exportedPath": "characters/carl.html",
       "dependencies": []
     },
     "Characters/Davelore.md": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 624,
       "exportedPath": "characters/davelore.html",
       "dependencies": []
     },
     "Characters/Drake.md": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 538,
       "exportedPath": "characters/drake.html",
       "dependencies": []
     },
     "Characters/Melphizard.md": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 529,
       "exportedPath": "characters/melphizard.html",
       "dependencies": []
     },
     "Characters/Nydid.md": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 535,
       "exportedPath": "characters/nydid.html",
       "dependencies": []
     },
     "Characters/Sockworthy.md": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 510,
       "exportedPath": "characters/sockworthy.html",
       "dependencies": []
     },
     "Characters/Xena.md": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 398,
       "exportedPath": "characters/xena.html",
       "dependencies": []
     },
     "Lore Buildings/Barracks.md": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 48,
       "exportedPath": "lore-buildings/barracks.html",
       "dependencies": []
     },
     "Lore Buildings/Brewery.md": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 165,
       "exportedPath": "lore-buildings/brewery.html",
       "dependencies": []
     },
     "Lore Buildings/Iron Mine.md": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 32,
       "exportedPath": "lore-buildings/iron-mine.html",
       "dependencies": []
     },
     "Lore Buildings/Kitchen.md": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 29,
       "exportedPath": "lore-buildings/kitchen.html",
       "dependencies": []
     },
     "Lore Buildings/Lighthouse.md": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 12,
       "exportedPath": "lore-buildings/lighthouse.html",
       "dependencies": []
     },
     "Lore Buildings/Rot Hut.md": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 401,
       "exportedPath": "lore-buildings/rot-hut.html",
       "dependencies": []
     },
     "Lore Buildings/Stewshop.md": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 44,
       "exportedPath": "lore-buildings/stewshop.html",
       "dependencies": []
     },
     "Lore Buildings/Windmill.md": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 207,
       "exportedPath": "lore-buildings/windmill.html",
       "dependencies": []
     },
     "Lore Buildings/Wizard Tower.md": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 290,
       "exportedPath": "lore-buildings/wizard-tower.html",
       "dependencies": []
     },
     "Character Canvas.canvas": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 2904,
       "exportedPath": "character-canvas.html",
       "dependencies": [
@@ -213,264 +214,273 @@
       ]
     },
     "Character Database.md": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 5988,
       "exportedPath": "character-database.html",
       "dependencies": []
     },
     "index.html": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 644,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "Lore Building Database.md": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 2582,
       "exportedPath": "lore-building-database.html",
       "dependencies": []
     },
     "Lore Buildings.canvas": {
-      "modifiedTime": 1725925511196,
-      "sourceSize": 2481,
+      "modifiedTime": 1725926497472,
+      "sourceSize": 2681,
       "exportedPath": "lore-buildings.html",
       "dependencies": [
+        "pictures/town-map_scaled_5x_pngcrushed.png",
         "pictures/town-map_scaled_5x_pngcrushed.png"
       ]
     },
     "Untitled.canvas": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 6268,
       "exportedPath": "untitled.html",
       "dependencies": []
     },
     "Welcome.md": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 205,
       "exportedPath": "welcome.html",
       "dependencies": []
     },
     "pictures/map-background-tall.png": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 65887,
       "exportedPath": "pictures/map-background-tall.png",
       "dependencies": []
     },
     "pictures/skin-nydid.png": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 50349,
       "exportedPath": "pictures/skin-nydid.png",
       "dependencies": []
     },
     "pictures/skin-carl.png": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 68899,
       "exportedPath": "pictures/skin-carl.png",
       "dependencies": []
     },
     "pictures/skin-davelore.png": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 35969,
       "exportedPath": "pictures/skin-davelore.png",
       "dependencies": []
     },
     "pictures/skin-sockworthy.png": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 61604,
       "exportedPath": "pictures/skin-sockworthy.png",
       "dependencies": []
     },
     "pictures/town-map_scaled_5x_pngcrushed.png": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 201018,
       "exportedPath": "pictures/town-map_scaled_5x_pngcrushed.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1725925511196,
-      "sourceSize": 19428,
+      "modifiedTime": 1725926497472,
+      "sourceSize": 20122,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1725925511196,
-      "sourceSize": 1219,
+      "modifiedTime": 1725926497472,
+      "sourceSize": 1255,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 59310,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 415,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1725925511196,
+      "modifiedTime": 1725926497472,
       "sourceSize": 831,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
+    },
+    "Server Map.md": {
+      "modifiedTime": 1725926497472,
+      "sourceSize": 699,
+      "exportedPath": "server-map.html",
+      "dependencies": [
+        "pictures/town-map_scaled_5x_pngcrushed.png"
+      ]
     }
   }
 }
