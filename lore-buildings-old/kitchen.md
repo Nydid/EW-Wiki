@@ -1,3 +1,0 @@
-# Kitchen
-
-**Not yet built**
